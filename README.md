@@ -1,12 +1,23 @@
-# Company Website
+# 🏢 Company Website Project
 
-A simple static company website built using HTML and Bootstrap.
+A beginner-friendly static website built using **HTML5**, **Bootstrap 5**, and **JavaScript**.  
+It includes pages for employee listings, individual employee details, and company reports.
 
-## Pages
-- **Home Page:** index.html  
-- **Employee List:** Employee.html  
-- **Employee Details:** EmployeeDetails.html  
-- **HR Report:** report.html
+---
 
-## Author
-- Anirban Banerjee
+### 🔗 Live Site
+[https://aevilop.github.io/company-website/](https://aevilop.github.io/company-website/)
+
+---
+
+### 📁 Pages
+| File | Description |
+|------|--------------|
+| [index.html](index.html) | Homepage |
+| [Employee.html](Employee.html) | Employee list |
+| [EmployeeDetails.html](EmployeeDetails.html) | Dynamic employee detail page |
+| [report.html](report.html) | Company report overview |
+
+---
+
+💡 *Created by Anirban Banerjee — Frontend Developer | MERN Learner*
